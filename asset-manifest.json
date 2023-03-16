@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memorybikini/static/css/main.787dd5fc.css",
+    "main.js": "/memorybikini/static/js/main.3453fa67.js",
+    "static/js/787.ae1762c1.chunk.js": "/memorybikini/static/js/787.ae1762c1.chunk.js",
+    "index.html": "/memorybikini/index.html",
+    "main.787dd5fc.css.map": "/memorybikini/static/css/main.787dd5fc.css.map",
+    "main.3453fa67.js.map": "/memorybikini/static/js/main.3453fa67.js.map",
+    "787.ae1762c1.chunk.js.map": "/memorybikini/static/js/787.ae1762c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.787dd5fc.css",
+    "static/js/main.3453fa67.js"
+  ]
+}
